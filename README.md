@@ -5,7 +5,7 @@ A polished mobile mini-game built in Flutter/Dart. Tap one bubble to detonate it
 ## Preview
 
 <p align="center">
-  <img src="preview.png" alt="Bubble Chain preview" width="320" />
+  <img src="preview.png" alt="Bubble Chain — glossy neon bubbles floating on a dark navy arena, ready to detonate" width="320" />
 </p>
 
 ## Features
